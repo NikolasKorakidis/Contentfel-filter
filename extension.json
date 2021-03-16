@@ -1,0 +1,13 @@
+{
+  "id": "cocktail-filter",
+  "name": "cocktail-filter",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Text",
+    "RichText",
+    "Integer",
+    "Number",
+    "Date",
+    "Boolean"
+  ]
+}
